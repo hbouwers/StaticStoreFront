@@ -71,8 +71,9 @@ a{
 
 #hero-section{
     background-image: url("./assets/hero.jpg");
-    background-size: cover;
+    background-size: 122%;
     height: 420px;
+    background-position: left;
 }
 
 
